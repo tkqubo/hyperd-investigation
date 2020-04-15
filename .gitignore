@@ -1,0 +1,6 @@
+hyperd*.log
+target
+lib/*
+!lib/.gitkeep
+out/*
+!out/.gitkeep
